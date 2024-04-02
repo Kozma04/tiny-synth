@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "device.h": "c",
+        "delay.h": "c",
+        "audio.h": "c",
+        "stdint.h": "c",
+        "math.h": "c",
+        "rtc.h": "c",
+        "pgmspace.h": "c",
+        "synth.h": "c",
+        "cmd.h": "c",
+        "handlers.h": "c",
+        "sys.h": "c",
+        "usart.h": "c",
+        "interrupt.h": "c"
+    }
+}
